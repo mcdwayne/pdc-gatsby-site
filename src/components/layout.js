@@ -48,7 +48,6 @@ const Layout = ({children}) => (
                         <div className={"col-2"}>
                             <div className={"widget__item"}>
                                 <ul className={"links"}>
-                                    <h4></h4>
                                     <ul>
                                         <li><Link to="/about" title={"About Us"}>About</Link></li>
                                         <li><Link to="/services" title={"Services"}>Services</Link></li>
@@ -62,8 +61,8 @@ const Layout = ({children}) => (
                         <div className={"col-3"}>
                             <div className={"widget__item"}>
                                 <div className={"social"}>
-                                    <a href="https://twitter.com/mcdwayne" target={"_blank"} title={"Twitter"}><img alt={"Twitter"} src={iconTwitter}/></a>
-                                    <a href="https://www.linkedin.com/company/process-digital-consulting/" target={"_blank"} title={"LinkedIn"}><img alt={"LinkedIn"} src={iconLinkedin}/></a>
+                                    <a href="https://twitter.com/mcdwayne" target={"_blank"} rel="noreferrer" title={"Twitter"}><img alt={"Twitter"} src={iconTwitter}/></a>
+                                    <a href="https://www.linkedin.com/company/process-digital-consulting/" target={"_blank"} rel="noreferrer" title={"LinkedIn"}><img alt={"LinkedIn"} src={iconLinkedin}/></a>
                                 </div>
                             </div>
                         </div>

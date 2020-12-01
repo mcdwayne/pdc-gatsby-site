@@ -99,7 +99,7 @@ const IndexPage = () => (
                 </div>
 
                 <div className={"button"}>
-                    <a href="https://forms.gle/ELy6jVDdydsFATAYA" target={"_blank"}>Start The Conversation</a>                </div>
+                    <a href="https://forms.gle/ELy6jVDdydsFATAYA" target={"_blank"} rel="noreferrer" >Start The Conversation</a> </div>
             </div>
         </div>
     </Layout>
