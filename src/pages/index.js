@@ -12,7 +12,7 @@ const IndexPage = () => (
         <SEO title="Process Digital Consulting"/>
 
         <div className={"page-header home"}>
-            <h1>Turning Strategic Vision Into Tactical Wins</h1>
+            <h1>TESTING</h1>
             <p>From defining your story of what success looks like to implementing tools<br/>Process Digital Consulting can get you to success faster</p>
            
         </div>
