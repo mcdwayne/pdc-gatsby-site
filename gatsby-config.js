@@ -58,7 +58,8 @@ module.exports = {
          sampleRate: 5,
          siteSpeedSampleRate: 10,
          cookieDomain: "processdigitalconsullting.com",
-      }
+      },
+      
     },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.dev/offline
