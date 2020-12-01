@@ -95,7 +95,7 @@ const IndexPage = () => (
             <div className={"container"}>
                 <div className={"call-to-action__content"}>
                     <h2>Reach out today!</h2>
-                    <p>Don't let one more day pass you by. Reach out now to start your journey to better processes today.</p>
+                    <p>Don't let one more day pass you by. Reach out now to start your journey to better processes today!</p>
                 </div>
 
                 <div className={"button"}>
